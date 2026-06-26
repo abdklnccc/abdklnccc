@@ -1,12 +1,12 @@
 <div align="center">
 
-# Abdullah ✦
+# Hi, I'm Abdullah ✦
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=600&lines=building+with+AI%2C+data+and+software;turning+messy+ideas+into+small+systems;currently+exploring+LLMs+%26+agentic+workflows" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=AI%2C+data%2C+simulation+and+Python;mostly+building%2C+breaking%2C+and+rebuilding+things;currently+exploring+LLMs+and+assistant+ideas" alt="Typing SVG" />
 
 <br/>
 
-`AI` · `Data` · `Simulation` · `Software Experiments`
+`AI` · `Data` · `Simulation` · `Python` · `Software Experiments`
 
 </div>
 
@@ -14,38 +14,40 @@
 
 ## ✦ about me
 
-I'm a Management Information Systems student building things around **AI, data, and software**.
+I'm Abdullah, a Management Information Systems student interested in AI, data, and simulation.
 
-I like projects that start as a messy idea and slowly become something useful — an assistant, a simulation, a notebook, a small tool, or just a weird experiment that teaches me something.
+Most of my projects live somewhere between **AI, data, and “wait, can I build this myself?”**
 
-```txt
-currently: learning how to build cleaner AI products
-vibe: curious builder, not a framework collector
-focus: LLMs · data · agents · practical tools
-```
+I like working with Python, LLMs, notebooks, simulations, and small tools that start from curiosity.  
+Some projects are serious, some are experimental, and some are just me trying to understand how something really works.
+
+Right now, I'm trying to get better at building AI projects that are not just demos, but actually usable.
 
 ---
 
-## ⟡ what I'm into
+## ⟡ things I like building
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" valign="top">
 
-### 🧠 AI systems
-LLM workflows, RAG-style assistants, prompt chains, agent experiments.
+### 🧠 AI / LLM stuff
 
-</td>
-<td width="33%">
-
-### 🧪 data projects
-Analysis notebooks, simulations, visualizations, and structured outputs.
+Assistant ideas, RAG-style flows, prompt experiments, and small tools powered by language models.
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
-### 🛠️ software tools
-Small useful systems that make information easier to use.
+### 🧪 Data experiments
+
+Notebooks, visualizations, simulations, and analysis projects where I try to make sense of things.
+
+</td>
+<td width="33%" valign="top">
+
+### 🛠️ Small systems
+
+Simple apps, scripts, and prototypes that help me test an idea instead of only thinking about it.
 
 </td>
 </tr>
@@ -56,24 +58,38 @@ Small useful systems that make information easier to use.
 ## 𖤐 featured work
 
 ### Synthetic Turkey
+
 A generative agent-based simulation project focused on the 2023 Turkish presidential election.
 
 ```txt
 synthetic agents · event timeline · LLM reasoning · JSON outputs · aggregation methods
 ```
 
+What I explored:
+
+- how synthetic voter agents can be modeled
+- how event-based information can affect agent behavior
+- how LLM outputs can be structured, validated, and compared
+- how different aggregation methods can change simulation results
+
+---
+
 ### AI assistant experiments
-Prototypes around document search, chat interfaces, voice interaction, and knowledge workflows.
+
+Small prototypes around document search, chat interfaces, voice interaction, and knowledge workflows.
 
 ```txt
-RAG flows · chatbot UI · prompting · real-time interaction concepts
+RAG · prompting · chatbot UI · voice interaction · assistant workflows
 ```
 
+---
+
 ### Data analysis projects
-Python-based analysis projects with notebooks, charts, and clean reporting.
+
+Python-based analysis projects with notebooks, charts, and structured outputs.
 
 ```txt
-pandas · numpy · matplotlib · exploration · storytelling with data
+pandas · numpy · matplotlib · scikit-learn · notebooks
 ```
 
 ---
@@ -89,32 +105,34 @@ pandas · numpy · matplotlib · exploration · storytelling with data
 <br/>
 
 ```python
-me = {
+abdullah = {
     "languages": ["Python", "SQL", "JavaScript basics"],
     "data": ["Pandas", "NumPy", "Matplotlib", "scikit-learn"],
     "ai": ["LLMs", "RAG", "prompting", "embeddings", "agent-based simulation"],
-    "tools": ["Git", "Supabase", "Jupyter", "VS Code"]
+    "tools": ["Git", "GitHub", "Supabase", "Jupyter", "VS Code"],
+    "currently_learning": ["backend basics", "cleaner architecture", "usable AI apps"]
 }
 ```
 
 ---
 
-## 🌱 currently learning
+## 🌱 currently exploring
 
 ```txt
-↳ backend development for AI apps
-↳ cleaner software architecture
-↳ production-ready LLM workflows
-↳ better project documentation
+↳ LLM-based assistants
+↳ RAG workflows
+↳ agent-based simulation
+↳ backend basics for AI projects
+↳ cleaner project documentation
 ```
 
 ---
 
-## ◌ small notes
+## ◌ notes
 
-- I like projects that combine technical systems with human decision-making.
-- I prefer building small working versions over only writing ideas down.
-- I use GitHub as a place to make my learning and experiments more visible.
+- I like projects that mix technical systems with human behavior or decision-making.
+- I prefer building small versions first, then improving them step by step.
+- I use GitHub to make my projects, experiments, and learning process more visible.
 
 ---
 
@@ -122,12 +140,8 @@ me = {
 
 ### ✦ connect
 
-<a href="BURAYA_LINKEDIN_LINKINI_KOY">
+<a href="https://www.linkedin.com/in/abdullahkilinc/">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:BURAYA_EMAIL_KOY">
-  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
